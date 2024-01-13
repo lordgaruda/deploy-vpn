@@ -12,6 +12,8 @@ don,t do other settings . use as it is default else not work.
 
 Now Scan That QR in Wireguard App if Network Not Working then do step as below.
 
+Launch Azure Shell.
+
 in my case i use azure so  u need to open port of openvpn aswell wireguard .
 so follow this steps.
 
